@@ -4,7 +4,7 @@ File lanjutan dari Domain 1 & 2. Simbol 🔑 = mnemonic/jembatan keledai.
 
 ---
 
-### Hari 1 — Architecture Models
+### Architecture Models
 
 #### A. Cloud Service Models & Shared Responsibility
 | Model | Yang dikelola provider | Yang dikelola kamu (customer) |
@@ -40,7 +40,7 @@ Microservices = dipecah jadi service kecil independen via API — lebih tahan ba
 
 ---
 
-### Hari 2 — Infrastructure Security: Device Placement, Network Appliances, Firewall
+### Infrastructure Security: Device Placement, Network Appliances, Firewall
 
 #### A. Security Zones
 **Screened subnet (DMZ)** — zona penyangga antara internet dan jaringan internal, tempat naruh server publik (web/mail server). Kalau kena hack, internal tetap aman.
@@ -77,7 +77,7 @@ Packet-filtering (Layer 3/4, cek header) → Stateful (ingat konteks koneksi) �
 
 ---
 
-### Hari 3 — Data Protection Concepts
+### Data Protection Concepts
 
 #### A. Data States
 At rest (disk/DB, lindungi: encryption) → In transit (jaringan, lindungi: TLS/VPN) → In use (memory, lindungi: secure enclave). Data paling rentan saat **in use** karena harus plaintext buat diproses.
@@ -111,7 +111,7 @@ Public → Private/Internal → Sensitive → Confidential → Critical/Restrict
 
 ---
 
-### Hari 4 — Resilience & Recovery
+### Resilience & Recovery
 
 #### A. Site Considerations
 | Site | Kesiapan | Kecepatan | Biaya |
@@ -141,7 +141,3 @@ Tabletop exercise (diskusi doang, paling "aman") → Failover test (beneran swit
 
 ## ✅ Domain 3: Security Architecture — SELESAI (18%)
 Ringkasan: Architecture Models (cloud, virtualization, IaC), Infrastructure Security (DMZ, proxy, IDS/IPS, firewall), Data Protection (encryption/hashing, masking/tokenization), Resilience & Recovery (site types, backup, power).
-
-**Total progress: Domain 1 (12%) + Domain 2 (22%) + Domain 3 (18%) = 52% materi ujian selesai.**
-
-Lanjut ke **Domain 4: Security Operations (28%, domain terbesar)** di file terpisah.
