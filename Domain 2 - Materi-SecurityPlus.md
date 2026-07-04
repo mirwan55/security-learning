@@ -4,7 +4,7 @@ File lanjutan dari `Materi-SecurityPlus.md` (Domain 1). Simbol 🔑 = mnemonic/j
 
 ---
 
-### Hari 1 (2 Juli 2026) — Threat Actors & Motivations
+### Threat Actors & Motivations
 
 #### Jenis-jenis Threat Actor
 
@@ -31,7 +31,7 @@ File lanjutan dari `Materi-SecurityPlus.md` (Domain 1). Simbol 🔑 = mnemonic/j
 
 ---
 
-### Hari 2 (2 Juli 2026) — Threat Vectors & Attack Surfaces
+### Threat Vectors & Attack Surfaces
 
 **Definisi:**
 - **Threat vector** — jalur/cara spesifik yang dipakai attacker buat masuk
@@ -57,7 +57,7 @@ File lanjutan dari `Materi-SecurityPlus.md` (Domain 1). Simbol 🔑 = mnemonic/j
 
 ---
 
-### Hari 3 (2 Juli 2026) — Types of Vulnerabilities
+### Types of Vulnerabilities
 
 #### A. Web/Application-based (paling nyambung ke background SQL/coding)
 
@@ -97,7 +97,7 @@ Vulnerability yang **belum diketahui vendor** atau **belum ada patch resmi**, me
 
 ---
 
-### Hari 4 (2 Juli 2026) — Malware Types (Indicators of Malicious Activity)
+### Malware Types (Indicators of Malicious Activity)
 
 | Malware | Ciri khas | Butuh host file? | Butuh aksi user? |
 |---|---|---|---|
@@ -120,7 +120,7 @@ Vulnerability yang **belum diketahui vendor** atau **belum ada patch resmi**, me
 
 ---
 
-### Hari 5 (2 Juli 2026) — Network/Password Attack Indicators + Mitigation Techniques
+### Network/Password Attack Indicators + Mitigation Techniques
 
 #### A. Network Attack Indicators
 | Serangan | Penjelasan |
@@ -163,5 +163,3 @@ Vulnerability yang **belum diketahui vendor** atau **belum ada patch resmi**, me
 
 ## ✅ Domain 2: Threats, Vulnerabilities & Mitigations — SELESAI (22%)
 Ringkasan: Threat Actors, Threat Vectors & Attack Surfaces, Types of Vulnerabilities, Malware Types, Network/Password/Physical Attack Indicators, Mitigation Techniques.
-
-Lanjut ke **Domain 3: Security Architecture (18%)** di file terpisah.
