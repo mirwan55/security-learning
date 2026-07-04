@@ -4,7 +4,7 @@
 
 ## Domain 1: General Security Concepts (bobot 12%)
 
-### Hari 1 (2 Juli 2026) — CIA Triad, Non-repudiation, AAA Framework
+### CIA Triad, Non-repudiation, AAA Framework
 
 #### 1. CIA Triad
 Inti dari semua definisi "keamanan informasi".
@@ -44,7 +44,7 @@ Prinsip **"never trust, always verify"** — gak ada entitas (user/device) yang 
 
 ---
 
-### Hari 2 (2 Juli 2026) — Security Controls: Categories & Types
+### Security Controls: Categories & Types
 
 Soal ujian sering minta identifikasi **kategori + jenis** dari satu contoh kontrol sekaligus. Bayangin ini matriks 2 dimensi: **Category** (gimana cara diimplementasikan) x **Type** (fungsi/tujuannya apa).
 
@@ -92,7 +92,7 @@ Soal ujian sering minta identifikasi **kategori + jenis** dari satu contoh kontr
 - **Directive vs Preventive**: kalau yang dideskripsikan soal adalah **kebijakan/aturannya** ("kebijakan mewajibkan...") → **Directive** (Managerial). Kalau yang dideskripsikan adalah **mekanisme teknis yang aktif menghalangi** (sistem otomatis blokir/enkripsi) → **Preventive** (Technical). Baca fokus kalimat soal baik-baik: aturan vs aksi teknis.
 - Satu kontrol bisa punya lebih dari satu *type* sekaligus (misal satpam & CCTV kamera) — tapi kalau soal minta 1 jawaban, pilih yang paling spesifik/utama sesuai definisi.
 
-### Hari 3 (2 Juli 2026) — Zero Trust (mendalam), Gap Analysis, Change Management
+### Zero Trust (mendalam), Gap Analysis, Change Management
 
 #### A. Zero Trust — mendalam
 Arsitektur Zero Trust dibagi jadi 2 "plane":
