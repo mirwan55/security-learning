@@ -1,8 +1,5 @@
 # CompTIA Security+ (SY0-701) — Catatan Materi
 
-Target ujian: awal Agustus 2026. Belajar teori: 2–31 Juli 2026.
-File ini bakal terus ditambah tiap hari sesuai progress belajar. Simbol 🔑 = mnemonic/jembatan keledai buat gampang diinget pas review.
-
 ---
 
 ## Domain 1: General Security Concepts (bobot 12%)
@@ -144,5 +141,3 @@ Bonus koneksi ke coding: **version control** (git) juga bagian dari change manag
 
 ## ✅ Domain 1: General Security Concepts — SELESAI (12%)
 Ringkasan yang udah dikuasai: CIA Triad, Non-repudiation, AAA Framework, Security Controls (categories & types), Zero Trust, Gap Analysis, Change Management.
-
-Lanjut ke **Domain 2: Threats, Vulnerabilities & Mitigations (22%)** di file terpisah: `Materi-Domain2-ThreatsVulnerabilities.md`.
