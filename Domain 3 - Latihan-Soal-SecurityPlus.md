@@ -67,18 +67,3 @@ Cara pakai: jawab dulu semua soal SEBELUM scroll ke bagian "Jawaban & Pembahasan
 2. **Tabletop exercise**.
 3. **Journaling**.
 4. **UPS (Uninterruptible Power Supply)**.
-
----
-
-## ✅ Domain 3: Security Architecture — SELESAI (18%)
-
-| Sesi | Skor |
-|---|---|
-| Hari 1: Architecture Models | 3/3 |
-| Hari 2: Infrastructure Security | 2/3 (dikoreksi soal 2: DMZ vs Jump server) |
-| Hari 3: Data Protection Concepts | 3/3 |
-| Hari 4: Resilience & Recovery | 4/4 |
-
-**Total progress: Domain 1 + 2 + 3 = 52% materi ujian selesai.**
-
-Lanjut ke **Domain 4: Security Operations (28%)** di file terpisah.

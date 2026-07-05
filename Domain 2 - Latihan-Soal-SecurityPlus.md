@@ -1,7 +1,5 @@
 # CompTIA Security+ (SY0-701) — Domain 2: Latihan Soal
 
-Cara pakai: jawab dulu semua soal SEBELUM scroll ke bagian "Jawaban & Pembahasan". Kalau ada yang salah/ragu, tandai buat direview lagi pas H-3 sebelum ujian.
-
 ---
 
 ## Hari 1 — Threat Actors & Motivations
@@ -91,13 +89,3 @@ Cara pakai: jawab dulu semua soal SEBELUM scroll ke bagian "Jawaban & Pembahasan
 ---
 
 ## ✅ Domain 2: Threats, Vulnerabilities & Mitigations — SELESAI (22%)
-
-| Sesi | Skor |
-|---|---|
-| Hari 1: Threat Actors & Motivations | 3/3 |
-| Hari 2: Threat Vectors & Attack Surfaces | 2/3 (dikoreksi soal 1: supply chain) |
-| Hari 3: Types of Vulnerabilities | 4/4 |
-| Hari 4: Malware Types | 3/4 (dikoreksi soal 2: worm vs host file) |
-| Hari 5: Network/Password Attacks + Mitigation | 4/4 |
-
-Lanjut ke **Domain 3: Security Architecture (18%)** di file terpisah.

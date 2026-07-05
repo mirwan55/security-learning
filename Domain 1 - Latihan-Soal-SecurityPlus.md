@@ -1,9 +1,5 @@
 # CompTIA Security+ (SY0-701) — Latihan Soal
 
-Cara pakai: jawab dulu semua soal di satu minggu SEBELUM scroll ke bagian "Jawaban & Pembahasan" di bawahnya. Kalau ada yang salah/ragu, tandai buat direview lagi pas H-3 sebelum ujian.
-
----
-
 ## Minggu 1 — Domain 1: General Security Concepts
 
 ### Soal
@@ -70,5 +66,3 @@ Cara pakai: jawab dulu semua soal di satu minggu SEBELUM scroll ke bagian "Jawab
 ---
 
 ## ✅ Domain 1: General Security Concepts — SELESAI (12%)
-
-Lanjut ke **Domain 2: Threats, Vulnerabilities & Mitigations (22%)** di file terpisah: `Latihan-Soal-Domain2.md`.
